@@ -1,6 +1,22 @@
+body {
+	margin-top: 0;
+	
+}
+
 #top {
 	background: url(Asset/Images/nav_bar_bg.png) no-repeat top center;
-	width: 1000px;
-	height: 460px;
-	float: left;
+	width: auto;
+	height: 65px;
+	margin-top: 15px;
+	
+}
+
+#nfLogo {
+	background: url(Asset/Images/nf_logo.png);
+	width: 116px;
+	height: 94px;
+    margin-left: 300px;
+    margin-top: -13.8px;
+    padding-top: 0;
+    display: inline-flex;
 }
