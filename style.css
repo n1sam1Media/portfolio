@@ -12,7 +12,7 @@ body {
 }
 
 #nfLogo {
-	background: url(Asset/Images/nf_logo.png);
+	background: url(Asset/Images/nf_logo.png) no-repeat top center;
 	width: 116px;
 	height: 94px;
     margin-left: 300px;
@@ -22,7 +22,36 @@ body {
 }
 
 #name {
-	background: url(Asset/Images/name.png);
+	background: url(Asset/Images/name.png) no-repeat top center;
 	width: 241px;
 	height: 24px;
+	float: right;
+	margin-right: 1110px;
+	margin-top: 21px;
+}
+
+ul {
+	display: inline-flex;
+	list-style: none;
+	margin-left: 1000px;
+	margin-top: 37px;
+}
+
+li {
+	padding: 0 20px;
+}
+
+#welcome {
+	background: url(Asset/Images/welcome.jpg) no-repeat top center;
+	width: auto;
+	height: 351px;
+	margin-top: 20px;
+}
+
+#line {
+	background: url(Asset/Images/line_mark.png) no-repeat top center;
+	display: block;
+	width: auto;
+	height: 20px;
+	margin-top: 5px;
 }
