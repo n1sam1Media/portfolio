@@ -48,10 +48,34 @@ li {
 	margin-top: 20px;
 }
 
-#line {
+.line {
 	background: url(Asset/Images/line_mark.png) no-repeat top center;
 	display: block;
 	width: auto;
 	height: 20px;
 	margin-top: 5px;
+}
+
+#skills {
+	background: url(Asset/Images/skills.jpg) no-repeat top center;
+	width: auto;
+	height: 838px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#works {
+	background: url(Asset/Images/works.jpg) no-repeat top center;
+	width: auto;
+	height: 871px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#contact {
+	background: url(Asset/Images/contacts.jpg) no-repeat top center;
+	width: auto;
+	height: 575px;
+	margin-top: 25px;
+	margin-bottom: 50px;
 }
