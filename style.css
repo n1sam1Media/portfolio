@@ -79,3 +79,9 @@ li {
 	margin-top: 25px;
 	margin-bottom: 50px;
 }
+
+@media (max-width: 320px)
+
+#nfLogo {
+  margin-left: 20px;
+}
