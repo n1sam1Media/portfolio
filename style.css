@@ -65,11 +65,24 @@ li {
 }
 
 #works {
-  background: url(Asset/Images/works.jpg) no-repeat top center;
+  background: url(Asset/Images/projects.jpg) no-repeat top center;
   width: auto;
   height: 871px;
   margin-top: 25px;
   margin-bottom: 25px;
+}
+
+#p1 {
+  position: relative;
+  left: 550px;
+  top: 160px;
+}
+
+#p3 {
+  position: relative;
+  left: 227px;
+  top:400px;
+
 }
 
 #contact {
