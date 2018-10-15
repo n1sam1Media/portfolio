@@ -78,11 +78,16 @@ li {
   top: 160px;
 }
 
+#p2 {
+  position: relative;
+  left: 360px;
+  top: 160px;
+}
+
 #p3 {
   position: relative;
   left: 227px;
   top:400px;
-
 }
 
 #contact {
