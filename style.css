@@ -74,20 +74,37 @@ li {
 
 #p1 {
   position: relative;
-  left: 550px;
-  top: 160px;
+  left: 580px;
+  top: 140px;
+  border-radius: 5px;
 }
 
 #p2 {
   position: relative;
-  left: 360px;
-  top: 160px;
+  left: 670px;
+  top: 140px;
+  border-radius: 5px;
 }
 
 #p3 {
   position: relative;
-  left: 227px;
-  top:400px;
+  left: -68px;
+  top: 380px;
+  border-radius: 5px;
+}
+
+#p4 {
+  position: relative;
+  left: 24px;
+  top: 380px;
+  border-radius: 5px;
+}
+
+#coming {
+  position: relative;
+  left: -528px;
+  top: 600px;
+  border-radius: 5px;
 }
 
 #contact {
