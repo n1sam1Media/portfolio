@@ -1,6 +1,6 @@
 body {
   margin-top: 0;
-  background-color: 
+  overflow-x: hidden;
 }
 
 #top {
@@ -8,7 +8,6 @@ body {
   width: auto;
   height: 65px;
   margin-top: 15px;
-	
 }
 
 #nfLogo {
@@ -31,6 +30,7 @@ body {
 }
 
 ul {
+  color: black;
   display: inline-flex;
   list-style: none;
   margin-left: 1000px;
@@ -39,6 +39,7 @@ ul {
 
 li {
   padding: 0 20px;
+
 }
 
 #welcome {
@@ -70,6 +71,15 @@ li {
   height: 871px;
   margin-top: 25px;
   margin-bottom: 25px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
 }
 
 #p1 {
@@ -115,13 +125,41 @@ li {
   margin-bottom: 50px;
 }
 
-#btn {
-  position: absolute;
-  width: 500px;
-} 
-
-@media (max-width: 320px)
-
-#nfLogo {
-  margin-left: 20px;
+#call {
+  font-size: 45px;
+  position: relative;
+  left: 1000px;
+  top: 137px;
+  overflow: hidden;
 }
+
+#call:hover {
+  color:white;
+}
+
+#mail {
+  font-size: 40px;
+  position: relative;
+  left: 915px;
+  top: 150px;
+}
+
+#mail:hover {
+  color: white;
+}
+
+#gitHub {
+  font-size: 40px;
+  position: relative;
+  left: 1000px;
+  top: 180px;
+}
+
+#linkedIn {
+  font-size: 40px;
+  position: relative;
+  left: 760px;
+  top: 275px;
+
+}
+  
