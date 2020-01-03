@@ -1,5 +1,13 @@
-# portfolio
-Creating my portfolio site
-This is the repo of my portfolio. I designed it using Photoshop and coded using HTML and CSS. Hoping to add more interactive things using
-JavaScript in the future. I'm a beginner yet. But someone needs a help. Contact me at nisal.shiroma86@gmail.com
-Now I'm working on make responsive my web site.
+# <=- Project's Description -=>
+ -> This is my portfolio repo. 
+ -> I designed it with Adobe PhotoShop. 
+ -> HTML and CSS are used.
+ 
+# <=- Project's Goals -=>
+ -> To make a nice portfolio for me.
+ -> Also learning in the path.
+ 
+# <=- Final Thoughts -=>
+ -> This is not a proffesional portfolio.
+ -> But I learned a lot.
+ -> Feel free to get anything from this.
